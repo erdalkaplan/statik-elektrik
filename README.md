@@ -1,2 +1,1 @@
 # statik-elektrik
-statik-elektrik
